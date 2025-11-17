@@ -1,0 +1,77 @@
+/*style for assn 1 */
+header {
+    color: white;
+    font-size: 30px;
+}
+body {
+    display: block;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+table {
+    margin: 0 auto;
+    background-color: white;
+    border-collapse: collapse;
+    color: rgb(65, 189, 238);
+    font-size: 22px;
+    font-family: sans-serif;
+    border: 2px solid #3366ff;
+    width: 80%;
+    height: 200px;
+    text-align: left;
+    
+}
+th {
+    font-size: 23px;
+    text-align: center;
+    background-color:rgb(1, 179, 255);
+    color: white;
+    border: 2px solid #3366ff;
+    
+}
+td {
+    border: 2px solid blue;
+
+}
+.image {
+    display: block;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 250px;
+    height: 300px;
+}
+.link {
+    background-color: black;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+/*this style are for my html file */
+.myh1{
+    text-align: center;
+    color: white;
+}
+h2, h3 {
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+}
+.over-view {
+    display: block;
+    border-radius: 5px;
+    background-color: skyblue;
+}
